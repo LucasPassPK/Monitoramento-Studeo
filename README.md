@@ -18,7 +18,7 @@ Instale as bibliotecas Python necessárias:
 
 Clone o repositório:
 
-> git clone https://github.com/seu-usuario/monitor-studeo-console.git
+> git clone https://github.com/LucasPassPK/Monitoramento-Studeo.git
 > cd monitor-studeo-console
 
 Configure o arquivo .env na raiz do projeto:
