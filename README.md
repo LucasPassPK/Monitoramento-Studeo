@@ -1,4 +1,4 @@
-O Monitor Studeo é um script em Python que utiliza Selenium para monitorar o portal Studeo da Unicesumar. Ele verifica notificações e atividades pendentes a cada hora, enviando alertas por e-mail para novas atualizações. O script roda em modo headless por padrão e exibe logs no console.
+O Monitor Studeo é um script em Python simples que utiliza Selenium para monitorar o portal Studeo da Unicesumar. Ele verifica notificações e atividades pendentes a cada hora, enviando alertas por e-mail para novas atualizações. O script roda em modo headless por padrão e exibe logs no console.
 Funcionalidades
 
 > Verificação automática de notificações e atividades a cada hora.
